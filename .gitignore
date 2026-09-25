@@ -1,0 +1,16 @@
+# Data (contains personal identifiers, never commit)
+*.xlsx
+*.xls
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
