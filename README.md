@@ -64,7 +64,7 @@ Full results for all 18 features are in [`results/`](results/).
 ## Author
 
 **Pritha Saha**, Department of CSE, Chittagong University of Engineering & Technology (CUET)
-prithasaha2022@gmail.com
+priitha.saha@gmail.com
 
 ## License
 
